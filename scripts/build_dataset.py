@@ -43,7 +43,7 @@ def clean_province(v):
     key = re.sub(r"\s*-\s*", "-", key)
     key = re.sub(r"^province (du |de |de la )?", "", key)
     key = {"tanganika": "tanganyika"}.get(key, key)
-    return PROVINCES.get(key, PROVINCES.get(key.replace("-", " "), v))
+    return PROVINCES.get(key, PROVINCES.get(key.replace(" ", "-"), PROVINCES.get(key.replace("-", " "), v)))
 
 
 def clean_phone(v):
