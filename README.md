@@ -56,6 +56,25 @@ Le site charge son tableau via `GET /api/companies/export` (aussi `/api/companie
 `/api/companies?page=&per_page=&search=`). Le scraper HTML d'origine (`index.py`) ne fonctionne plus
 depuis la refonte Next.js du site.
 
+## Données RCCM (flux public « Annonces légales »)
+
+Le portail <https://rccm.cd> protège sa recherche (limitation de débit, anti-robot) et réserve les fiches
+détaillées aux comptes vérifiés : **ces protections ne sont jamais contournées**. Seul le flux
+« Annonces légales », explicitement ouvert à tous, est collecté (`GET /rest/entities/annonces`, sans authentification).
+Pour un accès complet, voir `docs/demande_GUCE.md`.
+
+```bash
+python scripts/rccm_collect.py --contact vous@exemple.cd      # ~1 900 pages, 2 s entre requêtes, reprenable
+python scripts/rccm_merge.py                                  # aplatit, classe par secteur, rapproche d'ARSP par RCCM
+python -m pytest tests                                        # ou: pip install pytest
+```
+
+Le collecteur s'arrête seul si le portail répond 401/403/429, non-JSON ou captcha (aucune tentative de contournement).
+Champs récupérés : dénomination, forme juridique, RCCM, n° OHADA, IDNAT, secteur et activité (codes OHADA), date
+d'immatriculation, objet social. Les jetons `access` (téléchargement des statuts) ne sont pas conservés.
+Sorties : `data/rccm_companies.csv/.jsonl` (toutes les sociétés), `data/arsp_subcontractors_rccm.csv`
+(ARSP + colonnes `idnat`, `activite_principale`, `objet_social`…), `data/rccm/match_report.md`.
+
 ## Limites connues
 
 - ~700 entreprises n'ont pas de secteur (`Non précisé`) ; ~265 secteurs sont déduits du nom.

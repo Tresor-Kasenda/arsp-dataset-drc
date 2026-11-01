@@ -1,0 +1,95 @@
+[
+ {
+  "_id": "ent.mat.act.3550",
+  "_name": "DORIS KM GROUP",
+  "denominationSociale": "DORIS KM GROUP",
+  "activitePrincipaleOHADA": {
+   "code": "G470100",
+   "value": "Commerce de détail en magasin non spécialisé"
+  },
+  "formeJuridiqueN3": {
+   "code": "B12",
+   "value": "Société à responsabilité limitée pluripersonnelle (SARL)"
+  },
+  "formeJuridiqueN2": {
+   "code": "B1",
+   "value": "Sociétés commerciales (immatriculation principale)"
+  },
+  "formeJuridiqueN1": {
+   "code": "B",
+   "value": "Personne morale"
+  },
+  "numeroIdNat": "10-G4701-N18524J",
+  "secteurActiviteOHADA": {
+   "code": "G4701",
+   "value": "Commerce de détail"
+  },
+  "rccm": "CD/MAT/RCCM/26-B-00117",
+  "dateImmatriculationRCCM": "2026-10-30",
+  "objetSocial": "LA SOCIETE A POUR OBJET LA REALISATION DE TOUTES OPERATIONS COMMERCIALES",
+  "rccmOhada": "CD-MAT-01-2026-B12-00117",
+  "statutsDisponibles": true
+ },
+ {
+  "_id": "ent.lsh.act.517446",
+  "_name": "ASCHBEL CONSTRUCTION",
+  "denominationSociale": "ASCHBEL CONSTRUCTION",
+  "activitePrincipaleOHADA": {
+   "code": "G460403",
+   "value": "Commerce de gros de matériaux de construction, quincaillerie et fournitures pour plomberie"
+  },
+  "formeJuridiqueN3": {
+   "code": "B12",
+   "value": "Société à responsabilité limitée pluripersonnelle (SARL)"
+  },
+  "formeJuridiqueN2": {
+   "code": "B1",
+   "value": "Sociétés commerciales (immatriculation principale)"
+  },
+  "formeJuridiqueN1": {
+   "code": "B",
+   "value": "Personne morale"
+  },
+  "numeroIdNat": "05-F4300-N18510T",
+  "secteurActiviteOHADA": {
+   "code": "F4300",
+   "value": "Commerce de gros"
+  },
+  "rccm": "CD/LSH/RCCM/26-B-03097",
+  "dateImmatriculationRCCM": "2026-10-30",
+  "objetSocial": "Achat, vente, importation et exportation",
+  "rccmOhada": "CD-FBH-01-2026-B12-03097",
+  "statutsDisponibles": true
+ },
+ {
+  "_id": "ent.lsh.act.517431",
+  "_name": "KARIBU MINING DRC",
+  "denominationSociale": "KARIBU MINING DRC",
+  "activitePrincipaleOHADA": {
+   "code": "B070201",
+   "value": "Extraction de minerais de métaux précieux"
+  },
+  "formeJuridiqueN3": {
+   "code": "B12",
+   "value": "Société à responsabilité limitée pluripersonnelle (SARL)"
+  },
+  "formeJuridiqueN2": {
+   "code": "B1",
+   "value": "Sociétés commerciales (immatriculation principale)"
+  },
+  "formeJuridiqueN1": {
+   "code": "B",
+   "value": "Personne morale"
+  },
+  "numeroIdNat": "05-B0500-N18473D",
+  "secteurActiviteOHADA": {
+   "code": "B0500",
+   "value": "Activités d'extraction, raffinage et cokéfaction"
+  },
+  "rccm": "CD/LSH/RCCM/26-B-03100",
+  "dateImmatriculationRCCM": "2026-10-30",
+  "objetSocial": "La recherche, la prospection et l'exploration des substances minerales",
+  "rccmOhada": "CD-FBH-01-2026-B12-03100",
+  "statutsDisponibles": true
+ }
+]
