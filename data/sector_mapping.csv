@@ -1,0 +1,720 @@
+﻿activite_brute,sector_primary,sectors,n
+SERVICES,Services généraux,Services généraux,2727
+CONSTRUCTION,Construction & BTP,Construction & BTP,694
+COMMERCE,Commerce & fournitures,Commerce & fournitures,693
+FOURNITURE DES BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,485
+BÂTIMENTS ET TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,353
+"TRANSPORT, LOGISTIQUE",Transport & logistique,Transport & logistique,271
+FOURNITURE DES BIENS,Commerce & fournitures,Commerce & fournitures,223
+EXPLOITATION MINIERE,Mines & forage,Mines & forage,138
+CONSTRUCTION ET GENIE CIVIL,Construction & BTP,Construction & BTP,131
+COMMERCE GENERAL,Commerce & fournitures,Commerce & fournitures,80
+INFORMATIQUE,Informatique & télécoms,Informatique & télécoms,79
+SECURITE,Sécurité & gardiennage,Sécurité & gardiennage,74
+BATIMENTS ET TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,74
+TELECOMMUNICATIONS,Informatique & télécoms,Informatique & télécoms,73
+ELECTRICITE,Énergie & hydrocarbures,Énergie & hydrocarbures,67
+"COMMERCE GENERAL, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,64
+FOURNITURES DES BIENS,Commerce & fournitures,Commerce & fournitures,62
+AGROALIMENTAIRE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,59
+HYDROCARBURES,Énergie & hydrocarbures,Énergie & hydrocarbures,51
+CONSEIL,Conseil & services professionnels,Conseil & services professionnels,50
+TRANSPORT ET LOGISTIQUE,Transport & logistique,Transport & logistique,45
+SERVICES ET COMMERCE GENERAL,Services généraux,Services généraux;Commerce & fournitures,38
+FOURNITURES DES BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,38
+"SANTE, MEDECINE",Santé & pharmacie,Santé & pharmacie,35
+AGRICULTURE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,32
+ENTRETIEN,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",31
+GENIE CIVIL,Construction & BTP,Construction & BTP,28
+COMMUNICATION,Communication & médias,Communication & médias,22
+"HÔTELLERIE, RESTAURATION, CAFÉ","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",22
+ENERGETIQUE,Énergie & hydrocarbures,Énergie & hydrocarbures,21
+CATERING,"Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",17
+COMMERCES,Commerce & fournitures,Commerce & fournitures,17
+AUTOMOBILE,Industrie & manufacture,Industrie & manufacture,14
+CONSTRUCTION MECANIQUE,Industrie & manufacture,Industrie & manufacture,13
+EDUCATION / FORMATION,Éducation & formation,Éducation & formation,13
+REPARATION,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",12
+TRANSPORT,Transport & logistique,Transport & logistique,11
+CONSTRUCTIONS,Construction & BTP,Construction & BTP,11
+"CONSTRUCTION, FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,10
+FOURNITURE DES BIENS ET SERVICES.,Commerce & fournitures,Commerce & fournitures;Services généraux,10
+COMMERCE GENERAL ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,10
+TOURISME,"Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",9
+"IMPORT, EXPORT",Commerce & fournitures,Commerce & fournitures,9
+EXPLOITATION MINIERE ET SERVICES,Mines & forage,Mines & forage;Services généraux,8
+ASSAINISSEMENT,Eau & assainissement,Eau & assainissement,8
+"BATIMENTS TRAVAUX PUBLICS (BTP), SERVICES",Construction & BTP,Construction & BTP;Services généraux,8
+COMMERCE GENERAL ET FOURNITURE DES BIENS,Commerce & fournitures,Commerce & fournitures,7
+CONSTRUCTION ET SERVICES,Construction & BTP,Construction & BTP;Services généraux,7
+BATIMENTS ET TRAVAUX PUBLICS(BTP),Construction & BTP,Construction & BTP,7
+BATIMENT ET TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,6
+MAINTENANCE,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",6
+PRESTATION DES SERVICES,Services généraux,Services généraux,6
+"SERVICES, CONSTRUCTION ET GENIE CIVIL",Construction & BTP,Construction & BTP;Services généraux,5
+SERVICES ET GENIE CIVIL,Construction & BTP,Construction & BTP;Services généraux,5
+"EDUCATION, FORMATION",Éducation & formation,Éducation & formation,5
+"TRANSPORT,LOGISTIQUE",Transport & logistique,Transport & logistique,5
+"CONSTRUCTION, SERVICES",Construction & BTP,Construction & BTP;Services généraux,5
+"SERVICES, TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique;Services généraux,4
+IMMOBILIER,Immobilier,Immobilier,4
+DOUANE,Transport & logistique,Transport & logistique,4
+SERVICES PUBLICS,Services généraux,Services généraux,4
+GESTION DES RESSOURCES HUMAINES,Ressources humaines,Ressources humaines,4
+"HOTELLERIE, RESTAURATION, CAFE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",4
+ÉLECTRONIQUE,Informatique & télécoms,Informatique & télécoms,4
+TELECOMMUNICATIONS ET SERVICES,Informatique & télécoms,Informatique & télécoms;Services généraux,4
+GESTION INFORMATIQUE ET SERVICES,Informatique & télécoms,Informatique & télécoms;Services généraux,4
+"TRANSPORT, LOGISTIQUE ET SERVICES",Transport & logistique,Transport & logistique;Services généraux,4
+GESTION DE TELECOMMUNICATION ET SERVICES,Informatique & télécoms,Informatique & télécoms;Services généraux,4
+"TRANSPORT , LOGISTIQUE",Transport & logistique,Transport & logistique,4
+BATIMENTS ET TRAVAUX PUPLICS (BTP),Construction & BTP,Construction & BTP,4
+INDUSTRIE TEXTILE,Industrie & manufacture,Industrie & manufacture,3
+FORAGE,Mines & forage,Mines & forage,3
+GESTION DE LA TELECOMMUNICATION ET SERVICES,Informatique & télécoms,Informatique & télécoms;Services généraux,3
+AUDIT,Conseil & services professionnels,Conseil & services professionnels,3
+PLACEMENT DU PERSONNEL,Ressources humaines,Ressources humaines,3
+"NETTOYAGE, ENTRETIEN ET SERVICES","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",3
+"BÂTIMENTS ET TRAVAUX PUBLICS (BTP), FOURNITURE DES BIENS",Construction & BTP,Construction & BTP;Commerce & fournitures,3
+"SERVICES, COMMERCE ET CONSTRUCTIONS",Construction & BTP,Construction & BTP;Services généraux;Commerce & fournitures,3
+"GESTION INFORMATIQUE ET COMMUNICATION, SERVICES",Informatique & télécoms,Informatique & télécoms;Communication & médias;Services généraux,3
+AGRO-ALIMENTAIRE ET SERVICES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,3
+"FOURNITURE DES BIENS ET SERVICES, GENIE CIVILE",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,3
+COMMERCES ET MULTI-SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,3
+"CONSEIL, FOURNITURE DES BIENS ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures;Services généraux,3
+SERVICES ET LOGISTIQUE,Transport & logistique,Transport & logistique;Services généraux,3
+INDUSTRIE CHIMIQUE,Industrie & manufacture,Industrie & manufacture,3
+GESTION DES HYDROCARBURES ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,3
+CONSEIL ET SERVICES,Conseil & services professionnels,Conseil & services professionnels;Services généraux,3
+"SERVICES, BATIMENTS ET TRAVAUX PUBLICS (BTP)",Construction & BTP,Construction & BTP;Services généraux,3
+ÉLECTRICITE,Énergie & hydrocarbures,Énergie & hydrocarbures,3
+"COMMERCE, SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,3
+TRANSPORT & LOGISTIQUE,Transport & logistique,Transport & logistique,3
+BATIMENT ET TRAVAUX PUBLICS(BTP),Construction & BTP,Construction & BTP,3
+COMMERCE ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,3
+FOURNITURE DES BIENS ET SEVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,2
+AUTRES,Services généraux,Services généraux,2
+FORAGE AND DRILLING,Mines & forage,Mines & forage,2
+"TRANSPORT ET LOGISTIQUE, FOURNITURE DES PRODUITS, BIENS ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,2
+ARTISANAT D'ART,Industrie & manufacture,Industrie & manufacture,2
+"EXPLOITATION MINIERE, FOURNITURE DES BIENS ET SERVICES",Mines & forage,Mines & forage;Commerce & fournitures;Services généraux,2
+SERVICE,Services généraux,Services généraux,2
+FOURNITURE DESBIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,2
+"EVENEMENTIELS, COMMERCE GENERAL, FOURNITURES DES BIENS ET SERVICES",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,2
+FINANCE,Finance & assurance,Finance & assurance,2
+"ACHAT, TRANSPORT ET COMMERCIALISATION DES PRODUITS PETROLIERS",Transport & logistique,Transport & logistique;Énergie & hydrocarbures;Commerce & fournitures,2
+"PRODUCTION, TRAITEMENT, TRANSPORT ET DISTRIBUTION D'EAU",Transport & logistique,Transport & logistique;Eau & assainissement;Commerce & fournitures,2
+QUINCAILLERIE ET DIVERS,Commerce & fournitures,Commerce & fournitures;Services généraux,2
+ELEVAGE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,2
+"CONSTRUCTION, GENIE CIVIL, FOURNITURES DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,2
+GESTION ET DISTRIBUTION DES HYDROCARBURES,Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,2
+GARDIENNAGE ET LA SÉCURITÉ,Sécurité & gardiennage,Sécurité & gardiennage,2
+ASSURANCE,Finance & assurance,Finance & assurance,2
+RECHERCHE,Conseil & services professionnels,Conseil & services professionnels,2
+"TRANSPORT, LOGISTIQUE, SERVICES ET ACTIVITE MINIERE",Transport & logistique,Transport & logistique;Mines & forage;Services généraux,2
+TELECOMMUNICATIONS ET GESTION INFORMATIQUE,Informatique & télécoms,Informatique & télécoms,2
+"SERVICES, GENIE CIVIL, CONSTRUCTION, TRANSPORT, IMPORT & EXPORT",Construction & BTP,Construction & BTP;Transport & logistique;Services généraux;Commerce & fournitures,2
+"PLACEMENT DU PERSONNEL, FOURNITURE DES BIENS ET SERVICES",Ressources humaines,Ressources humaines;Commerce & fournitures;Services généraux,2
+"HOTELLERIE, RESTAURANT, CAFE ET SERVICES","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Services généraux",2
+"CONSTRUCTION, GENIE CIVIL ET TRAVAUX PUBLICS",Construction & BTP,Construction & BTP,2
+"BÂTIMENTS ET TRAVAUX PUBLICS (BTP), LOGISTIQUE ET TRANSPORT, GESTION IMMOBILIERE",Construction & BTP,Construction & BTP;Transport & logistique;Immobilier,2
+AGROALIMENTAIRE ET SERVICES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,2
+INDUSTRIE PHARMACEUTIQUE,Industrie & manufacture,Industrie & manufacture;Santé & pharmacie,2
+"SERVICES, CONSTRUCTION ET TRANSPORT",Construction & BTP,Construction & BTP;Transport & logistique;Services généraux,2
+CONSTRUCTION ET COMMERCE GENERAL,Construction & BTP,Construction & BTP;Commerce & fournitures,2
+"SERVICES, COMMERCE GENERAL, TRANSPORT",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,2
+"GENIE CIVIL, ASSAINISSEMENT, CONSTRUCTION ET COMMERCE GENERAL",Construction & BTP,Construction & BTP;Eau & assainissement;Commerce & fournitures,2
+PRESTATION DES SERVICES ET FOURNITURES DES BIENS,Services généraux,Services généraux;Commerce & fournitures,2
+ELECTRONIQUE ET SERVICES,Informatique & télécoms,Informatique & télécoms;Services généraux,2
+GESTION DE L'INDUSTRIE CHIMIQUE ET SERVICES,Industrie & manufacture,Industrie & manufacture;Services généraux,2
+MULTI-SERVICES,Services généraux,Services généraux,2
+"PRESTATION DES SERVICES, FOURNITURE DES BIENS ET SERVICES",Services généraux,Services généraux;Commerce & fournitures,2
+"AGRICULTURE, FOURNITURE DES BIENS ET SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,2
+SECURITE ET SERVICES,Sécurité & gardiennage,Sécurité & gardiennage;Services généraux,2
+HYDROCARBURES ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,2
+AGRO-BUSINESS ET SERVICES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,2
+"CONSTRUCTION ET GENIE CIVIL, FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,2
+COMMERCE GENERAL ET FOURNITURE DES BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,2
+"GENIE CIVIL, CONSTRUCTION",Construction & BTP,Construction & BTP,2
+FOURNITURES DE BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,2
+"FOURNITURE DES BIENS ET SERVICES, TRANSPORT",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,2
+"AGRICULTURE, SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,2
+"TRANSPORT, LOGISTIQUE, FOURNITURE DES BIENS ET SERVICES.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,2
+"COMMERCE GENERAL,FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,2
+CONSULTANCE ET SERVICES,Conseil & services professionnels,Conseil & services professionnels;Services généraux,2
+TRANSPORT LOGISTIQUE,Transport & logistique,Transport & logistique,2
+"CONSTRUCTION,FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,2
+EXPOITATION MINIERE,Mines & forage,Mines & forage,2
+"FOURNITURE DES BIENS ET SERVICES, CONSTRUCTION.",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,2
+PRESTATION DE SERVICES,Services généraux,Services généraux,2
+"INFORMATIQUE, SERVICES",Informatique & télécoms,Informatique & télécoms;Services généraux,2
+SANTE ET MEDECINE,Santé & pharmacie,Santé & pharmacie,2
+"TRANSPORT, LOGISTIQUE, SERVICES",Transport & logistique,Transport & logistique;Services généraux,2
+"ENTRETIEN, SERVICES","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",2
+"BATIMENTS ET TRAVAUX PUBLICS (BTP), SERVICES",Construction & BTP,Construction & BTP;Services généraux,2
+TRANSITAIRE EN DOUANE ET SERVICES,Transport & logistique,Transport & logistique;Services généraux,1
+SERVICES ET CONSEIL,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+"SERVICES, NETTOYAGE ET MAINTENANCE ECOLOGIQUE","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",1
+"AGENCE EN DOUANE, SERVICES",Transport & logistique,Transport & logistique;Services généraux,1
+"EXPLOITATION MINIERE,GENIE CIVIL,FOURNITURE DES BIENS ET SERVICES",Mines & forage,Mines & forage;Construction & BTP;Commerce & fournitures;Services généraux,1
+SERVICES ET INGENIERIE GENERALE,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+CONSTUCTION ET GENEI CIVIL,Construction & BTP,Construction & BTP,1
+"PRODUCTION, DISTRIBUTION ET GESTION ET DE L'ELECTRICITE",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+INGENIERIE ET TECHNOLOGIE,Conseil & services professionnels,Conseil & services professionnels;Informatique & télécoms,1
+"SERVICES, CONSTRUCTION, LOGISTIQUE, MAINTENANCE DES USINES",Construction & BTP,"Construction & BTP;Transport & logistique;Maintenance, entretien & réparation;Services généraux",1
+FOURNITURE ET ENTRETIEN DU MATERIEL D'AUTOMATION ET REGULATION,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Informatique & télécoms;Commerce & fournitures",1
+STOCKAGE,Transport & logistique,Transport & logistique,1
+"REPARATION, MAINTENANCE, SERVICES ET FORMATIONS","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Éducation & formation;Services généraux",1
+COMMERVCE GENERAL ET SERVICES,Services généraux,Services généraux,1
+NORMALISATION INTERNATIONALE,Conseil & services professionnels,Conseil & services professionnels,1
+ELECTRO-TECHNIQUE,Informatique & télécoms,Informatique & télécoms,1
+"COMMUNICATION, DIGITAL, MANAGEMENT & TRANSPORT",Communication & médias,Communication & médias;Informatique & télécoms;Transport & logistique,1
+"SECURITE, SOLUTIONS DIGITALES ET LOGISTIQUE",Sécurité & gardiennage,Sécurité & gardiennage;Informatique & télécoms;Transport & logistique,1
+RÉHABILITATION ET GESTION COMPLETE DES INFRASTRUCTURE MÉDICALES,Santé & pharmacie,Santé & pharmacie,1
+NETTOYAGE À SEC /PRESSING,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+GESTION ET DISTRIBUTION DU RESEAUX DE TELECOMMUNICATIONS,Informatique & télécoms,Informatique & télécoms;Commerce & fournitures,1
+"TRANSPORT,TOURISME,MAINTENANCE DES ENGINS ROULANTS ET SERVICES",Transport & logistique,"Transport & logistique;Hôtellerie, restauration & tourisme;Maintenance, entretien & réparation;Services généraux",1
+"TRANSPORT, VENTES ET LOCATIONS DES ENGINS, GESTION DU TOURISME",Transport & logistique,"Transport & logistique;Hôtellerie, restauration & tourisme;Commerce & fournitures",1
+VENTE DES PIÈCES MÉCANIQUES ET SERVICES,Industrie & manufacture,Industrie & manufacture;Commerce & fournitures;Services généraux,1
+"RÉHABILITATION ET CONSTRUCTION DE BÂTIMENTS, RECRUTEMENTS DE PERSONNEL",Construction & BTP,Construction & BTP;Ressources humaines,1
+FABRICATION DES FLEXIBLE DES ENGINS MINIERS,Industrie & manufacture,Industrie & manufacture;Mines & forage,1
+FOURNITURES DES MATERIELS ET CONSOMABLE EN MINE ET INDUSTRIE,Mines & forage,Mines & forage;Industrie & manufacture;Commerce & fournitures,1
+BATIMENTS ET TRAVVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"SECURITE, GARDIEANNAGE, SERVICES",Sécurité & gardiennage,Sécurité & gardiennage;Services généraux,1
+COMMERCE GENERALE,Commerce & fournitures,Commerce & fournitures,1
+"MAINTENANCE, CONSTRUCTION, TRANSPORT, FOURNITURE DE BIENS ET SERVICES,","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux",1
+COMMERCE -GENERAL,Commerce & fournitures,Commerce & fournitures,1
+"SERVICES,COMMERCIALISATION, TRANSPORT,STOCKAGE ET IMPORTATION",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,1
+"HOTELLERIE, ELECTRICITE, MAINTENANCE ELECTRONIQUE ET ELECTRO-MENAGER","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Énergie & hydrocarbures;Maintenance, entretien & réparation;Informatique & télécoms",1
+"FOURNITURES DES PRODUITS CHIMIQUES, COMMERCE GENER",Industrie & manufacture,Industrie & manufacture;Commerce & fournitures,1
+"INGENIERIE, FOURNITURE, CONSTRUCTION, MANAGEMENT-PROJETS MINIERS",Conseil & services professionnels,Conseil & services professionnels;Construction & BTP;Mines & forage;Commerce & fournitures,1
+"LOGISTIQUE, FOURNITURE",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+CONSTRUCTION NAVALE,Construction & BTP,Construction & BTP,1
+"PRODUCTION ALIMENTAIRE,IMPORT-EXPORT,COMMERCE,REPRESENTATION INDUSTRIEL/COMMERCIAL,PLANIFICATION ET LOGISTIQUE INDSUTRIEL, ACTIV",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Industrie & manufacture;Transport & logistique;Commerce & fournitures,1
+NETTOYAGE ET TRANSFORMATION DES PRODUITS LOCAUX,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Éducation & formation;Commerce & fournitures",1
+PRODUCTION D'ENERGIE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+CONSULTANCE ENERGIE ET AVIATIONS,Conseil & services professionnels,Conseil & services professionnels;Énergie & hydrocarbures,1
+GESTION DE L'OUTIL INFORMATIQUE,Informatique & télécoms,Informatique & télécoms,1
+GESTION INFORMATION,Éducation & formation,Éducation & formation,1
+ARCHITECTURE,Construction & BTP,Construction & BTP,1
+FOURNITURE DES REACTIFS MINIERS,Mines & forage,Mines & forage;Commerce & fournitures,1
+"GESTION, FOURNITURE, DISTRIBUTION ET FABRICATION DES PROUITS PHARMACETIQUES",Industrie & manufacture,Industrie & manufacture;Santé & pharmacie;Commerce & fournitures,1
+"ENGINEERING, MAINTENANCE ET SERVICES","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",1
+"INFORMATIQUE, GESTION IMMOBILIERE, TELECOMMUNICATIONS",Informatique & télécoms,Informatique & télécoms;Immobilier,1
+"COLLECTE ,TRAITEMENT ET VALORISATION DES DECHETS",Eau & assainissement,Eau & assainissement,1
+FACILITATION A L'INVESTISSEMENT ET COMMERCE GENERAL,Commerce & fournitures,Commerce & fournitures,1
+NETTOYAGE ET APPROVISIONNEMENT,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+STOCKAGE DES PRODUITS DERIVES OU PETROLIERS,Transport & logistique,Transport & logistique;Énergie & hydrocarbures;Commerce & fournitures,1
+"ANALYSE PHYSICO- CHIMIQUES , ETUDE ENVIRONNEMENTA",Industrie & manufacture,Industrie & manufacture;Conseil & services professionnels,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP),ENERGIE, TELECOMMUNICATIONS",Construction & BTP,Construction & BTP;Énergie & hydrocarbures;Informatique & télécoms,1
+"EXPERTRISE COMPTABLE, AUDIT, FORMATION ET MANAGEMENT DES AGENTS ECADRES",Conseil & services professionnels,Conseil & services professionnels;Éducation & formation,1
+PLOMBERIE MINOTERIE,Construction & BTP,Construction & BTP,1
+PLOMBERIE,Construction & BTP,Construction & BTP,1
+"INDUSTRIE LEGERE, PAPETERIE, FOURNITURES DES BIENS",Industrie & manufacture,Industrie & manufacture;Commerce & fournitures,1
+"SANTE, MEDECINE ET MULTISERVICE",Santé & pharmacie,Santé & pharmacie;Services généraux,1
+"MINE, GÉOLOGIE CONSTRUCTION ET ENVIRONNEMENT",Mines & forage,Mines & forage;Construction & BTP,1
+ENTRETIEN ET NETTOYAGE DES BATIMENTS,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Construction & BTP",1
+MAINTENANCE INDUSTRIELLE ET MONTAGE METALLIQUE,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture",1
+"SERVICES, FOURNITURE DES BIENS ET EQUIPEMENTS",Services généraux,Services généraux;Commerce & fournitures,1
+"EXPLOITATION MINIERE, FOURNITURE DES BIENS, TRANSPORT ET LOGISTIQUE",Mines & forage,Mines & forage;Transport & logistique;Commerce & fournitures,1
+"ENGINEERING ET CONSTRUCTION GENERALE,IMPORT-EXPORT,TRANSPORT ET LOGISTIQUE",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures,1
+"CONSEIL, ACCOMPAGNEMENT ET FACILITATION DES ENTREP",Conseil & services professionnels,Conseil & services professionnels,1
+ÉNERGIES,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+CONSEILS ET MULTI-SERVICES,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+MANUTENTION,Transport & logistique,Transport & logistique,1
+FOURNITURES DES HYDROCARBURES ET GAZ,Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"COMMERCE GENERAL, FACILITATION, CONSEIL",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures,1
+"FOURNITURE DES BIENS ET SERVICES, EXPLOITATION MINIERE",Mines & forage,Mines & forage;Commerce & fournitures;Services généraux,1
+BÂTIMENTS ET TRAVAUX PUBLICS (BTP) ET HYDRAULIQUES,Construction & BTP,Construction & BTP,1
+"PRESTATIONS DE SERVICES POSTAUX, DE SÉCURITÉ ET DE SOUTIEN AUX ENTREPRISES",Sécurité & gardiennage,Sécurité & gardiennage;Services généraux,1
+"GENIE CIVIL, NETOYAGE INDUSTRIEL, FOURNITURE E.P.I",Construction & BTP,Construction & BTP;Industrie & manufacture;Commerce & fournitures,1
+"PRODUCTION D'ÉNERGIE & COMMERCIALISATION, SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, TRANSPORT ET FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux,1
+"REPARATION ELECTRO-MECANIQUE, FABRICATION DES OUTILS","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture",1
+"COMMUNICATION, CONSEILS, FOURNITURE DES SERVICES",Communication & médias,Communication & médias;Conseil & services professionnels;Commerce & fournitures;Services généraux,1
+"CONSEIL, FOURNITURE DES SERVICES, RESTAURATION ET CONSTRUCTION",Conseil & services professionnels,"Conseil & services professionnels;Hôtellerie, restauration & tourisme;Construction & BTP;Commerce & fournitures;Services généraux",1
+"HYDROCARBURES, PRODUITS PETROLIERS",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"MAINTENANCE ET INSTALLATION DE L'ELECTRICITE, FOURNITURES DES BIENS ET SERVICES, CONSTRUCTION","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Énergie & hydrocarbures;Construction & BTP;Commerce & fournitures;Services généraux",1
+"ELECTRICITE, SERVICES D'INGÉNIERIE ET VENTE DES EQUIPEMENTS",Énergie & hydrocarbures,Énergie & hydrocarbures;Conseil & services professionnels;Services généraux;Commerce & fournitures,1
+"FINANCE, CONSTRUCTION, SERVICES, ENTRETIENT, IMPORT & EXPORT",Finance & assurance,"Finance & assurance;Construction & BTP;Maintenance, entretien & réparation;Services généraux;Commerce & fournitures",1
+BATIMENTS ET TRAVAUX (BTP),Construction & BTP,Construction & BTP,1
+AGRO ALIMENTAIRE ET BTP,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Construction & BTP,1
+"COMMERCE GENERALE, GESTION DES OPERATIONS FINANCIERES",Finance & assurance,Finance & assurance;Commerce & fournitures,1
+"BÂTIMENTS ET TRAVAUX PUBLICS (BTP), TRANSPORT",Construction & BTP,Construction & BTP;Transport & logistique,1
+"COMMERCE, RESTAURATION, QUINCAILLERIE, SERVICES","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Commerce & fournitures;Services généraux",1
+AUTOMOBILE ET MULTI-SERVICES,Industrie & manufacture,Industrie & manufacture;Services généraux,1
+NETTOYAGE DE BÂTIMENTS ET PLACEMENTS,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Construction & BTP",1
+EXPLOITATION DES MATERIAUX DE CONSTRUCTION,Construction & BTP,Construction & BTP,1
+"COMMERCE GENERAL, BÂTIMENTS ET TRAVAUX PUBLICS (BTP)",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"COMMERCE GENERAL, SERVICE, LOGISTIQUE ET TRANSPORT",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+CENTRALE D' ACHATS ET DISTRIBUTION,Commerce & fournitures,Commerce & fournitures,1
+"GARDINAGE, AGENCE EN DOUANE, CONSTRUCTION ET PLACE",Sécurité & gardiennage,Sécurité & gardiennage;Transport & logistique;Construction & BTP,1
+"COMMERCE, IMPORT & EXPORT, TOURISME, INFRASTRUCTURE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Commerce & fournitures",1
+"GESTION DES HYDROCARBURES, FOURNITURE DES SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"CONSEILS, SERVICES, ACCOMPAGNEMENT JURIDIQUE ET FINANCIER",Conseil & services professionnels,Conseil & services professionnels;Finance & assurance;Services généraux,1
+"FOURNITURES DES EXPLOSIFS , SERVICES DE TIRS ET DYNAMITAGE EN MINE",Mines & forage,Mines & forage;Commerce & fournitures;Services généraux,1
+TRANSPORT ET EXPLOITAION D'INFRASTRUCTURES DE TRANSPORT,Transport & logistique,Transport & logistique,1
+"INFRASTRUCTURE,TRANSFORMATION NUMÉRIQUE,CONSEIL ET COMMERCE",Éducation & formation,Éducation & formation;Informatique & télécoms;Conseil & services professionnels;Commerce & fournitures,1
+"CONSEIL ET GESTION IMMOBILIERE, COMMERCE GENERAL, SERVICES",Conseil & services professionnels,Conseil & services professionnels;Immobilier;Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, VENTE DES MATÉRIAUX DE CONSTRUCTION",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"EXTRACTION, RAFFINERIE ET COKEFA",Mines & forage,Mines & forage;Énergie & hydrocarbures,1
+FOURNITURES DES REACTIFS ET MULTI- SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+CONSTRUCTION ET ASSAINISSEMENT,Construction & BTP,Construction & BTP;Eau & assainissement,1
+"MINES,IMPORT-EXPORT ET COMMERCE GENERAL",Mines & forage,Mines & forage;Commerce & fournitures,1
+"CONSTRUCTIONS, GÉNIE CIVILS, CATERING ET GESTION DU PERSONNEL",Construction & BTP,"Construction & BTP;Hôtellerie, restauration & tourisme",1
+"PRESTATION DES SERVICES, SECURITE",Sécurité & gardiennage,Sécurité & gardiennage;Services généraux,1
+"CONSTRUCTION, GENIE CIVIL, ENTRETIEN, COMMERCE, REPARATION ET TRANSPORT",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Transport & logistique;Commerce & fournitures",1
+"EXPLOITATION MINIERE, FOURNITURE DES BIENS",Mines & forage,Mines & forage;Commerce & fournitures,1
+EXPLOITATION FORESTIÈRE ET SERVICES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,1
+CONSTRUCTION ET PETIT COMMERCE,Construction & BTP,Construction & BTP;Commerce & fournitures,1
+FOURNITURE DES BIENS ET GESTION DE L'ÉLECTRICITÉ,Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+GESTION DES RESSOURCES ENERGETIQUES,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+AGRO PASTORAL ET SERVICES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux,1
+"INFORMATIQUE, PRESTATION DES SERVICES",Informatique & télécoms,Informatique & télécoms;Services généraux,1
+"SERVICES, FOURNITURES ET CONSTRUCTION",Construction & BTP,Construction & BTP;Services généraux;Commerce & fournitures,1
+GARDIENNAGE,Sécurité & gardiennage,Sécurité & gardiennage,1
+SÉCURITÉ & GARDIENNAGE,Sécurité & gardiennage,Sécurité & gardiennage,1
+"TRANSPORT ET LOGISTIQUE, BILLETERIE, FRET",Transport & logistique,Transport & logistique,1
+ÉLECTRICITÉ SOLAIRE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+"AGRO PASTORALES, COMMERCES, SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+AÉRONAUTIQUE,Transport & logistique,Transport & logistique,1
+NETTOYAGE ET MAINTENANCE,"Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+FOURNITURE ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"ENTRETIEN, NETTOYAGE ET ASSAINISSEMENT","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Eau & assainissement",1
+BUREAU D'ÉTUDES EN ÉVALUATION ENVIRONNEMENTALE ET SOCIALE,Conseil & services professionnels,Conseil & services professionnels,1
+SERVICES ET GESTIONS DES DECHETS,Eau & assainissement,Eau & assainissement;Services généraux,1
+"GENIES CIVILE, ELECTROMECANIQUE, ELECTRONIQUE, ETUDES",Industrie & manufacture,Industrie & manufacture;Informatique & télécoms;Conseil & services professionnels,1
+"TELECOMMUNICATION, GENIE CIVIL, SERVICES",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Services généraux,1
+"CONSULTING, IMPORT, EXPORT ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures;Services généraux,1
+ELECTRONOQUE,Informatique & télécoms,Informatique & télécoms,1
+"SERVICES, IMPORT ET EXPORT, COMMERCE",Services généraux,Services généraux;Commerce & fournitures,1
+"CONSEIL, FOURNITURE DES BIENS ET GENIE CIVIL",Conseil & services professionnels,Conseil & services professionnels;Construction & BTP;Commerce & fournitures,1
+"ÉTUDE, GÉNIE CIVILE ET CONSTRUCTION DES OUVRAGES",Conseil & services professionnels,Conseil & services professionnels;Construction & BTP,1
+"TRANSPORT ET LOGISTIQUE, ENGINEERING, PLACEMENT DU PERSONNEL",Transport & logistique,Transport & logistique;Ressources humaines,1
+"CONSTRUCTION, PRODUCTION, COMMERCE GENERAL ET IMPORT EXPORT",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"COMMERCE GENERAL, IMPORT-EXPORT, SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"COMMERCE,TRANSPORT,SERVICES,CONSTRUCTION ET GENIE CIVIL",Transport & logistique,Transport & logistique;Construction & BTP;Commerce & fournitures;Services généraux,1
+INDUSTRIE PAPETIERE,Industrie & manufacture,Industrie & manufacture,1
+"GESTION,OPTIMISATION DES CHAINES D'APPROVISIONNEMENT, TRANSPORT- LOGISTIQUE ,STOCKAGE ET DISTRIBUTION",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+"CONSTRUCTION, GESTION FINANCIERE ET IMMOBILIERE",Construction & BTP,Construction & BTP;Finance & assurance;Immobilier,1
+"RECHERCHE ET ETUDES DES MARCHÉS, ENGINEERING",Conseil & services professionnels,Conseil & services professionnels,1
+"COMMERCES, HYDROCARBURES ET AGRICULTURE",Énergie & hydrocarbures,Énergie & hydrocarbures;Agriculture & agroalimentaire;Commerce & fournitures,1
+"PRESTATION DES SERVICES, CONSTRUCTION ET EXPLOITATION DES CENTRALES/ÉNERGIE",Construction & BTP,Construction & BTP;Énergie & hydrocarbures;Services généraux,1
+"IMPORT, EXPORT, IMPRIMERIE ET TRANSPORT",Communication & médias,Communication & médias;Transport & logistique;Commerce & fournitures,1
+FORAGE D'EAU ET SERVICES,Mines & forage,Mines & forage;Eau & assainissement;Services généraux,1
+"PRESTATION DES SERVICES, FOURNITURE DES BIENS , TRANSPORT",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,1
+"TRANSPORT, HYDROCARBURES",Transport & logistique,Transport & logistique;Énergie & hydrocarbures,1
+"FABRICATION, VENTE DE PEINTURE ET DECORATION",Industrie & manufacture,Industrie & manufacture;Construction & BTP;Commerce & fournitures,1
+"CONSTRUCTIONS, ETUDES ET COMMERCE",Construction & BTP,Construction & BTP;Conseil & services professionnels;Commerce & fournitures,1
+"GENIE INFORMATIQUE, GENIE ELECTRIQUE, GENIE CIVIL",Informatique & télécoms,Informatique & télécoms;Énergie & hydrocarbures;Construction & BTP,1
+"VENTE - PRODUITS PETROLIERS, IMPORT ET EXPORT, GENIE CIVIL, NETTOYAGE ET SERVICES",Énergie & hydrocarbures,"Énergie & hydrocarbures;Construction & BTP;Maintenance, entretien & réparation;Commerce & fournitures;Services généraux",1
+"COMMERCE, LOGISTIQUE , TRANSPORT ET NOUVELLES TECHNOLOGIES",Transport & logistique,Transport & logistique;Informatique & télécoms;Commerce & fournitures,1
+"CONSULTATION, FACILITATION, FOURNITURE DES BIENS ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures;Services généraux,1
+FOURNITURE DES PIECES DES RECHANGE ET ENTRETIEN DES ENGINS LOURDS,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Commerce & fournitures",1
+"COMMERCE GENERAL , MAINTENANCE ,MANUTENTION ET GENIE CIVIL","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Transport & logistique;Construction & BTP;Commerce & fournitures",1
+"AGRO-PASTORALE, TOURISME, FOURNITURE DES BIENS ET SERVICES",Agriculture & agroalimentaire,"Agriculture & agroalimentaire;Hôtellerie, restauration & tourisme;Commerce & fournitures;Services généraux",1
+EXPOITATION MINIERES,Mines & forage,Mines & forage,1
+MANUTENTION ET COMMERCE GENERAL,Transport & logistique,Transport & logistique;Commerce & fournitures,1
+LOGISTIQUE ET PLACEMENT DU PERSONNEL,Transport & logistique,Transport & logistique;Ressources humaines,1
+"IMPORT ET EXPORT, LOGISTIQUE, TRANSPORT",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+EXTRACTION MINIERE,Mines & forage,Mines & forage,1
+"GENIE CIVILE, FOURNITURE DES BIENS ET SERVICES, FOURNITURE DES PRODUITS PETROLIERS ET AGRICOLES",Construction & BTP,Construction & BTP;Énergie & hydrocarbures;Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+SERVICES ET GESTION DES RESSOURCES HUMAINES,Ressources humaines,Ressources humaines;Services généraux,1
+GESTION INFORMATIQUE ET CONSEIL,Informatique & télécoms,Informatique & télécoms;Conseil & services professionnels,1
+"FOURNITURE DES BIENS ET SERVICES, GESTION DES ENERGIES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"GENIE CIVIL, COMMERCE, FOURNITURES, CONSTRUCTION ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, GENIE CIVIL, MAINTENANCE, CONSULTANCE ET MULTI-SERVICES",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Conseil & services professionnels;Services généraux",1
+"AERONAUTIQUE, MAINTENANCE, SERVICES",Transport & logistique,"Transport & logistique;Maintenance, entretien & réparation;Services généraux",1
+FOURNITURES DES BIENS ET RESTAURATION,"Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Commerce & fournitures",1
+"SERVICES, FOURNITURE DES ÉQUIPEMENTS MINIERS, CONSTRUCTION",Mines & forage,Mines & forage;Construction & BTP;Services généraux;Commerce & fournitures,1
+"COMMERCE GENERAL, ENVIRONNEMENT, AGRO-PASTORAL, FOURNITURE DES SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+HYDROCARBURES ET CONSTRUCTION,Énergie & hydrocarbures,Énergie & hydrocarbures;Construction & BTP,1
+"TRANSPORT, LOGISTIQUE ET CONSTRUCTION",Transport & logistique,Transport & logistique;Construction & BTP,1
+"TRAITEMENT, DISTRIBUTION ET COMMERCIALISATION D'EAU, INDUSTRIE AGROALIMENTAIRE ET FOOD",Eau & assainissement,Eau & assainissement;Industrie & manufacture;Agriculture & agroalimentaire;Commerce & fournitures,1
+CONSTRUCTION ET INSTALLATION ÉLECTRIQUE,Construction & BTP,Construction & BTP;Énergie & hydrocarbures,1
+"FOURNITURE DES BIENS ET SERVICES, GENIE CIVILE, MAINTENANCE D'USINES",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Commerce & fournitures;Services généraux",1
+"TECH ET NUMERIQUE, ENVIRONNEMENT, AGRO-PASTORAL, SERVICE ET COMMERCE",Informatique & télécoms,Informatique & télécoms;Agriculture & agroalimentaire;Services généraux;Commerce & fournitures,1
+"COMMERCIALISATION DES MINERAIS, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+INFORMATIQUE ET ÉLECTRONIQUE,Informatique & télécoms,Informatique & télécoms,1
+ETUDES DES MARCHES ET SUIVI D' EVALUATION,Conseil & services professionnels,Conseil & services professionnels,1
+"GESTION ET OPTIMISATION ÉNERGÉTIQUE, FOURNITURE DES ARTICLES ET SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS, FABRICATION, REPARATION ET ENTRETIEN DES EQUIPEMENTS",Industrie & manufacture,"Industrie & manufacture;Maintenance, entretien & réparation;Commerce & fournitures",1
+"CONSTRUCTION, EXPLOITATION MINIÈRE ET ALPHABETISATION",Construction & BTP,Construction & BTP;Mines & forage,1
+"BÂTIMENTS ET TRAVAUX PUBLICS (BTP), GENIE CIVILE, FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"GESTION DE LA COMMUNICATION, CONSEIL ET SERVICES",Communication & médias,Communication & médias;Conseil & services professionnels;Services généraux,1
+"ÉNERGIE HYDRAULIQUE, BTP & GÉNIE CIVIL",Énergie & hydrocarbures,Énergie & hydrocarbures;Construction & BTP,1
+AUDITE,Conseil & services professionnels,Conseil & services professionnels,1
+"EXTRACTION, RAFFINAGE, COKEFACTION ET SERVICES MINIERS",Mines & forage,Mines & forage;Énergie & hydrocarbures;Services généraux,1
+EXPLOITATION MINIÈRE ET HYDROCARBURES,Mines & forage,Mines & forage;Énergie & hydrocarbures,1
+"COMMERCE GÉNÉRAL, MINE, HYDRO ET AGRICULTURES",Mines & forage,Mines & forage;Agriculture & agroalimentaire;Commerce & fournitures,1
+"CONSTRUCTION, LOGISTIQUE",Construction & BTP,Construction & BTP;Transport & logistique,1
+"GENIE CIVIL, BÂTIMENTS ET TRAVAUX PUBLICS (BTP)",Construction & BTP,Construction & BTP,1
+"AGRO-BUSINESS, FOURNITURE DES BIENS ET SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+"FOURNITURE, GESTION DE L'ÉLECTRICITÉ ET SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"GENIE CIVIL, GENIE MINIER ET SERVICES",Construction & BTP,Construction & BTP;Mines & forage;Services généraux,1
+"ELECTRICITE, DRILLINGS",Énergie & hydrocarbures,Énergie & hydrocarbures;Mines & forage,1
+"RECRUTEMENT, FORMATION PROFESSIONNELLE ET PLACEMENT DE LA MAIN D'OEUVRE",Ressources humaines,Ressources humaines;Éducation & formation,1
+"CONSTRUCTION, ENTRETIEN, REPARATION, COMMERCE ET TRANSPORT",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Transport & logistique;Commerce & fournitures",1
+"RECHERCHE, CONSEIL ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+"MAINTENANCE INDUSTRIELLE, CONSTRUCTION ET GENIE CIVIL, SERVICES","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture;Construction & BTP;Services généraux",1
+COMMERCE INDUSTRIE MINE ET CARRIERE,Industrie & manufacture,Industrie & manufacture;Mines & forage;Commerce & fournitures,1
+"NETTOYAGE ET MAINTENANCE DES GRANDS ESPACES, PLACEMENT DU PERSONNEL","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Ressources humaines",1
+GESTION DE L'ÉLECTRICITÉ ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"SERVICES, INFORMATIQUE ET GENIE CIVIL",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Services généraux,1
+CONSTRUCTIONS ET TRANSPORTS,Construction & BTP,Construction & BTP;Transport & logistique,1
+"TRANSPORT, FOURNITURE DES BIENS, SERVICES MINIERS ET GEOLOGIQUES",Transport & logistique,Transport & logistique;Mines & forage;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS, EXTRACTIONS, RAFINAGES, COKEFACTION DES MATIERES PREMIERE",Mines & forage,Mines & forage;Commerce & fournitures,1
+"CONSEIL, PLACEMENT DU PERSONNEL ET FOURNITURE DES BIENS",Conseil & services professionnels,Conseil & services professionnels;Ressources humaines;Commerce & fournitures,1
+IMPRIMERIE ET PAPETERIE,Communication & médias,Communication & médias,1
+"CONSTRUCTION, TRANSPORT, COMMERCE GENERAL, IMPORT-EXPORT",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures,1
+"BÂTIMENTS ET TRAVAUX PUBLICS (BTP), IMPORT-EXPORT,FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, BÂTIMENTS ET TRAVAUX PUBLICS (BTP)",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+EXTRACTION MINIERE ET SERVICES,Mines & forage,Mines & forage;Services généraux,1
+"ENGINEERING, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"SERVICES, ETUDES ENVIRONNEMENTALES, GENIE CIVIL ET COMMERCE GENERAL",Conseil & services professionnels,Conseil & services professionnels;Construction & BTP;Services généraux;Commerce & fournitures,1
+COMMERCE GENERAL ET MINES,Mines & forage,Mines & forage;Commerce & fournitures,1
+"ENCADREMENT DES CREUSEURS ARTISANAUX, EXPLOITATION MINIERE",Mines & forage,Mines & forage,1
+"TRANSPORT, COMMERCE, CONSTRUCTION ET SERVICES",Transport & logistique,Transport & logistique;Construction & BTP;Commerce & fournitures;Services généraux,1
+PLACEMENT DU PERSONNEL ET SERVICES,Ressources humaines,Ressources humaines;Services généraux,1
+"SERVICES, VENTE CARBURANT, GENIE CIVIL, DECORATIONS, EVENEMENTIELS",Énergie & hydrocarbures,Énergie & hydrocarbures;Construction & BTP;Communication & médias;Services généraux;Commerce & fournitures,1
+"GENIE CIVIL, NETTOYAGE INDUSTRIEL ET MÉCANIQUE",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Industrie & manufacture",1
+"INGENIERIE, MAINTENANCE INDUSTRIELLE ET SERVICES",Conseil & services professionnels,"Conseil & services professionnels;Maintenance, entretien & réparation;Industrie & manufacture;Services généraux",1
+GARDINAGE,Sécurité & gardiennage,Sécurité & gardiennage,1
+"HYDROCARBURES, IMPORT, EXPORT",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"VENTE DES MINERAIS, EXPLOITATION MINIERE, FOURNITURES DES BIENS ET SERVICES",Mines & forage,Mines & forage;Commerce & fournitures;Services généraux,1
+FOURNITURES DES PIÈCES DES RECHANGES ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"COMMERCES, IMPORT-EXPORT,TRANSPORT, GENIE CIVIL, AGRICULTURE, PECHE ET SERVICES",Transport & logistique,Transport & logistique;Construction & BTP;Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+"PLACEMENT DU PERSONNEL, COMMERCE GENERAL, CONSEIL ET SERVICES",Ressources humaines,Ressources humaines;Conseil & services professionnels;Commerce & fournitures;Services généraux,1
+"IMPRIMERIE, INFORMATIQUE, FOURNITURE DES BIENS ET SERVICES",Communication & médias,Communication & médias;Informatique & télécoms;Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGISTIQUE, CONSTRUCTION ET SERVICES",Transport & logistique,Transport & logistique;Construction & BTP;Services généraux,1
+"PRESTATION DES SERVICES, TRANSPORT, IMPORT-EXPORT",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,1
+"CONSTRUCTION, INGENIERIE, PRESTATION DES SERVICES",Construction & BTP,Construction & BTP;Conseil & services professionnels;Services généraux,1
+SERVICES ET GESTION DE LA COMMUNICATION,Communication & médias,Communication & médias;Services généraux,1
+"SERVICES, FOURNITURES, TRANSPORT-LOGISTIQUES, IMMOBILIER",Transport & logistique,Transport & logistique;Immobilier;Services généraux;Commerce & fournitures,1
+COMMERCE MINIER,Mines & forage,Mines & forage;Commerce & fournitures,1
+"CONSTRUCTION, GENIE CIVIL ,FOURNITURES ET MAINTENANCES",Construction & BTP,"Construction & BTP;Maintenance, entretien & réparation;Commerce & fournitures",1
+TRANSPORT ET SERVICES,Transport & logistique,Transport & logistique;Services généraux,1
+"CONSTRUCTION, CONSULTING ET SERVICES",Construction & BTP,Construction & BTP;Conseil & services professionnels;Services généraux,1
+"CONSTRUCTION, LOGISTIQUE, IMPORT ET EXPORT",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures,1
+"FOURNITURE DES BIENS ET SERVICES, SECURITE, GARDIENNAGE",Sécurité & gardiennage,Sécurité & gardiennage;Commerce & fournitures;Services généraux,1
+"SECURITE, ENTRETIEN ET NETTOYAGE",Sécurité & gardiennage,"Sécurité & gardiennage;Maintenance, entretien & réparation",1
+"IMPORT-EXPORT, COMMERCE GENERAL ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"AGRICULTURE, CONSULTANCE ET SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Conseil & services professionnels;Services généraux,1
+"FOURNITURE DES MATERIAUX DE CONSTRUCTION, MENUISERIE METALLIQUE, DES CONSOMMABLES INDUSTRIELS",Construction & BTP,Construction & BTP;Industrie & manufacture;Commerce & fournitures,1
+"CONSTRUCTION, INGÉNIERIE, ÉLECTRICITÉ GÉNÉRALE ET FOURNITURE DES MATÉRIAUX DE CONSTRUCTION",Construction & BTP,Construction & BTP;Conseil & services professionnels;Énergie & hydrocarbures;Commerce & fournitures,1
+ELECTRICITE ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+CONSULTANCE EN PROJET D'ENGINEERING,Conseil & services professionnels,Conseil & services professionnels,1
+"PLACEMENT DU PERSONNEL, LOGISTIQUE, GARDIENNAGE ET SECURITE",Ressources humaines,Ressources humaines;Transport & logistique;Sécurité & gardiennage,1
+"MAINTENANCE MECANIQUE, CONSTRUCTION ET TRANSPORT","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture;Construction & BTP;Transport & logistique",1
+GESTION ENERGETIQUE ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"GENIE CIVIL, CONSTRUCTION ET IMPORT-EXPORT",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"TELECOMMUNICATION, GESTION INFORMATIQUE ET CONSEIL",Informatique & télécoms,Informatique & télécoms;Conseil & services professionnels,1
+"EDUCATION, FORMATION ET SERVICES",Éducation & formation,Éducation & formation;Services généraux,1
+"FOURNITURES DES BIENS ET SERVICES, ENERGETIQUE",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS, RECHERCHE ET CONSEIL",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures,1
+"TRANSPORT, GESTION DES HYDROCARBURES ET LOGISTIQUE",Transport & logistique,Transport & logistique;Énergie & hydrocarbures,1
+GESTION ELECTRIQUE ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"CONSTRUCTION, GENIE CIVIL ET MINE",Construction & BTP,Construction & BTP;Mines & forage,1
+FOURNITURE DES BIENS ET ENTRETIEN DES GRANDS SURFACES,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Commerce & fournitures",1
+"CONSEIL, ETUDES DES TRAVAUX HYDRAULIQUES ET FORAGES",Conseil & services professionnels,Conseil & services professionnels;Mines & forage,1
+"INSTALLATION ET MAINTENANCE DES EQUIPEMENTS SOLAIRES ET VENTE, CLEARNING","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Énergie & hydrocarbures;Commerce & fournitures",1
+"ASSAINISSEMENT/DECHETS MENAGERS, MAINTENANCE INDUSTRIELLE, INSTALLATION ELECTRIQUE DOMESTIQUE/INDUST",Eau & assainissement,"Eau & assainissement;Maintenance, entretien & réparation;Industrie & manufacture;Énergie & hydrocarbures",1
+COMMERCE GENERAL ET SERVICES.,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"COMMERCE GENERAL, INFRASTRUCTURES ET TRAVAUX PUBLICS",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"FOURNITURE DES BIENS, TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+"COMMERCE GENERAL, GENIE CIVIL ET CONSTRUCTION, ENVIRONNEMENT",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"IMPORT-EXPORT, COMMERCE GENERAL, IMMOBILIER, ET L'AGRICULTURE,",Immobilier,Immobilier;Agriculture & agroalimentaire;Commerce & fournitures,1
+SERVICES ET AUDIT,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+SSERVICES,Services généraux,Services généraux,1
+"CONSTRUCTION, BATIMENTS ET TRAVAUX PUBLICS (BTP)",Construction & BTP,Construction & BTP,1
+"CONSTRUCTION,GENIE CIVIL,FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS & SERVICES,GENIE CIVIL,CONSTRUCTION,EVENEMENTIEL",Construction & BTP,Construction & BTP;Communication & médias;Commerce & fournitures;Services généraux,1
+"COMMERCES, FOURNITURE DES SERVICES INTERNET",Informatique & télécoms,Informatique & télécoms;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, GESTION INFORMATIQUE",Informatique & télécoms,Informatique & télécoms;Commerce & fournitures;Services généraux,1
+"COMMERCE, GENIE CIVIL, FOURNITURE DES BIENS ET SERVICES.",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"ELEVAGE, PECHE,EXPLOITATION FORESTIERE",Agriculture & agroalimentaire,Agriculture & agroalimentaire,1
+"COMLMERCE GENERAL, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+PRESTATION DES SERVICES ET FOURNITURE DES BIENS ET SERVICES.,Services généraux,Services généraux;Commerce & fournitures,1
+CONSULTANCE ET ETUDES,Conseil & services professionnels,Conseil & services professionnels,1
+"RECHERCHE, EXPLOITATION, TRAITEMENT ET COMMERCIALISATION DES PRODUITS MINIERS",Conseil & services professionnels,Conseil & services professionnels;Mines & forage;Commerce & fournitures,1
+"FOURNITURE DES BIENS ET SERVICES, GESTION DES HYDROCARBURES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+CONTRUCTION ET GENIE CIVIL,Construction & BTP,Construction & BTP,1
+GESTION ÉNERGETIQUE ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+BATMENTS ET TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"TRANSPORT, LOGISTIQUE, FOURNITURE DES BIENS ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"GESTION DES HYDROCARBURES, FOURNITURE DES BIENS ET SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, FOURNITURE DES MATERIELS",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"FOURNITURE DES PRODUITS CHIMIQUES ET REACTIFS, COMMERCE",Industrie & manufacture,Industrie & manufacture;Commerce & fournitures,1
+"BATIMENTS, GENIE CIVILE, COMMERCE GENERAL ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"GESTION DE FINANCE, COMPTABILITE ET CONSEILS",Finance & assurance,Finance & assurance;Conseil & services professionnels,1
+"INFORMATIQUE, CONTRUCTION ET SERVICES.",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Services généraux,1
+PRODUCTION D ENERGIE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+"FOURNITURE DES BIENS,SERVICES ET CONSTRUCTION",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"TELECOMMUNICATION, GENIE CIVIL, SERVICES.",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Services généraux,1
+"AGROALIMENTAIRE, FOURNITURE DES BIENS ET SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+"COMMERCE GENERAL, FOURNITURE DES PRODUITS COSMESTIQUES",Commerce & fournitures,Commerce & fournitures,1
+"CONTRUCTION, MULTI-SERVICES",Construction & BTP,Construction & BTP;Services généraux,1
+ENERGIE ET SERVICE,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"HOTELLERIE , RESTAURATION,","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",1
+"CONSEIL FISCAL, FORMATION, ORGANISATION ET GESTION COMPTABLE",Conseil & services professionnels,Conseil & services professionnels;Éducation & formation,1
+IMPORTATION ET COMMERCIALISATION DES PRODUITS PETROLIERS,Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"INGENIERIE TECHNIQUE, GENIE CIVIL ET INFORMATIQUE",Conseil & services professionnels,Conseil & services professionnels;Construction & BTP;Informatique & télécoms,1
+"TRANSPORT, LOGISTIQUE ET SERVICE",Transport & logistique,Transport & logistique;Services généraux,1
+"COMMERCE GENERAL, CONSTRUCTION ET GENIE CIVIL",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+FOURNITURE DES BIEN ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"COMMERCE D'HABILLEMENT, DE PRODUITS PHARMACEUTIQUES ET COSMETIQUES",Santé & pharmacie,Santé & pharmacie;Commerce & fournitures,1
+"CONSTRUCTION, GENIE CIVIL, SERVICES.",Construction & BTP,Construction & BTP;Services généraux,1
+"HOTELLERIE, RESTAURATION, FOURNITURE DES BIENS ET SERVICES.","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Commerce & fournitures;Services généraux",1
+"CONSTRUCTION, SERVICES.",Construction & BTP,Construction & BTP;Services généraux,1
+"HYDROCARBURES, SERVICES.",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"TRANSPORT, FOURNITURE DES BIENS ET SERVICES.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGISTIQUES",Transport & logistique,Transport & logistique,1
+PRESTATIONS DES SERVICES,Services généraux,Services généraux,1
+"TRANSPORT , LOGISTIQUES",Transport & logistique,Transport & logistique,1
+"SERVICES, TRANSPORT ET LOGISTISQUE",Transport & logistique,Transport & logistique;Services généraux,1
+"COMMERCE GENERAL, IMPRIMERIE, FOURNITURE DES BIENS ET SERVICES",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,1
+"SANTE, MEDECINE.",Santé & pharmacie,Santé & pharmacie,1
+COMMERCES ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"EVENEMENTIEL,CONSTRUCTION,SERVICES",Communication & médias,Communication & médias;Construction & BTP;Services généraux,1
+"ENTRETIEN, NETTOYAGE ET MAINTENANCE ECOLOGIQUE","Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+"FOURNITURE DES BIENS ET SERVICES, LOGISTIQUE",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+COMMUNICATIONS,Communication & médias,Communication & médias,1
+CONSEIL ET SERVICES JURIDIQUES,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+"CONSTRUCTION,FOURNITURES,SERVICES,TRANSPORT,IMPORT-EXPORT",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux,1
+BATIMENT ET TRAVAUX PUBLICS (BTP) ET SERVICES,Construction & BTP,Construction & BTP;Services généraux,1
+FOURNITURES DES BIENS ET NETTOYAGE DES GRANDS ESPACES,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Commerce & fournitures",1
+"SERVICES, TRANSPORT, LOGISTIQUE",Transport & logistique,Transport & logistique;Services généraux,1
+"GENI CIVIL, REABILITATION DES BATIMENTS ET SERVICES",Construction & BTP,Construction & BTP;Services généraux,1
+FOURNITURES DES BIEN ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"GENIE CIVIL,CONSTRUCTION ET FOURNITURE DES BIENS",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"SERVICES, DOUANE, IMPORT ET EXPORT",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,1
+"CONSTRUCTION, INGENIERIE, SERVICES",Construction & BTP,Construction & BTP;Conseil & services professionnels;Services généraux,1
+ELECTRONIQUE,Informatique & télécoms,Informatique & télécoms,1
+"CONSTRUCTION, TRANSPORT, SERVICES",Construction & BTP,Construction & BTP;Transport & logistique;Services généraux,1
+"CONSTRUCTION, PREVENTION DE VECTEURS, FOURNITURE DES BIENS",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"FOURNITURE, ACHAT ET VENTE DES PRODUITS CHIMIQUES, LOGISTIQUE, SERVICES",Industrie & manufacture,Industrie & manufacture;Transport & logistique;Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGISTIQUE, INDUSTRIE ET TOURISME",Transport & logistique,"Transport & logistique;Industrie & manufacture;Hôtellerie, restauration & tourisme",1
+"GARDIENNAGE,FOURNITURES DES BIENS ET SERVICES",Sécurité & gardiennage,Sécurité & gardiennage;Commerce & fournitures;Services généraux,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP) ,CONSTRUCTION, SERVICES.",Construction & BTP,Construction & BTP;Services généraux,1
+"SERVICES,GESTION ET DISTRIBUTION DE L'ÉLECTRICITE",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux;Commerce & fournitures,1
+"FOURNITURE DES BIENS ET SERVICES, CONSTRUCTION, GENIE CIVIL ET SERVICES.",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+GENIE CIVIL ET SERVICES,Construction & BTP,Construction & BTP;Services généraux,1
+"SECURITE, CONSEIL ET PROTECTION RAPPROCHE",Sécurité & gardiennage,Sécurité & gardiennage;Conseil & services professionnels,1
+SÉCURITÉ ANTI INCENDIE,Sécurité & gardiennage,Sécurité & gardiennage,1
+"ÉLECTRICITE, MULTI-SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, EVENEMENTIELS",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,1
+PRESTATION DE SERVICES ET FOURNITURE DE BIENS,Services généraux,Services généraux;Commerce & fournitures,1
+"AGROALIMENTAIRE, TRANSFORMATION",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Éducation & formation,1
+BATIMENTS E TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"SANTE, MEDECINE ET BEAUTE",Santé & pharmacie,Santé & pharmacie,1
+"SERVICES, GESTION ET DISTRIBUTION DE L'ELECTRICITE",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux;Commerce & fournitures,1
+"GESTION DE LA COMMUNICATION, SERVICES",Communication & médias,Communication & médias;Services généraux,1
+"GESTION DE L'ÉLECTRONIQUE, SERVICES",Informatique & télécoms,Informatique & télécoms;Services généraux,1
+"FOUNITURE, DISTRIBUTION DE L'ÉNERGIE ELECTRIQUE",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"FOURNITURE DES SERVICES, LOGISTIQUE, TRANSPORT FORETIER ET MINIER",Transport & logistique,Transport & logistique;Mines & forage;Commerce & fournitures;Services généraux,1
+BATIMEMENTS ET TRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"ASSISTANCE AU MENAGE, TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique,1
+FOURNITURE DES BIENS ET SERVCIES,Commerce & fournitures,Commerce & fournitures,1
+ENERGITIQUE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+"ENTRETIEN, NETTOYAGE ET MAINTENANCE DES ENGINS","Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+"COMMERCE,CONSULTATIONS ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Commerce & fournitures;Services généraux,1
+CONSTRUCTIONS ET SERVICES,Construction & BTP,Construction & BTP;Services généraux,1
+"SERVICES, GESTION ET FOURNITURE ENERGETIQUE",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux;Commerce & fournitures,1
+COMMERCE ET FOURNITURE DES BIENS,Commerce & fournitures,Commerce & fournitures,1
+"COMMERCE, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+EXPOLITATION MINIERE,Mines & forage,Mines & forage,1
+"CONSEIL, FORMATION DU PERSONNEL",Conseil & services professionnels,Conseil & services professionnels;Éducation & formation,1
+"ENTRETIEN, NETTOYAGE, ET MAINTENANCE DES GRANDS ESPACES","Maintenance, entretien & réparation","Maintenance, entretien & réparation",1
+PRESTATIONS DE SERVICES ET FOURNITURES,Services généraux,Services généraux;Commerce & fournitures,1
+COMMERCE GENERAL ET MAINTENANCE,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Commerce & fournitures",1
+"CONSEIL, FORMATION",Conseil & services professionnels,Conseil & services professionnels;Éducation & formation,1
+"COMMERCE GENERAL, TRANSPORT, LOGISTIQUE ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"TRANSPORT, GENIE CIVIL,ELECTRICITE, SERVICES.",Transport & logistique,Transport & logistique;Construction & BTP;Énergie & hydrocarbures;Services généraux,1
+BATEMENT ET TRAVAUX PUBLICS(BTP),Construction & BTP,Construction & BTP,1
+"COMMERCE GENERAL, DECOUVERTURE, CONSTRUCTION",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+"TRANSPORT, LOGISTIQUE, SERVICES, CONSTRUCTION.",Transport & logistique,Transport & logistique;Construction & BTP;Services généraux,1
+EDUCATION & FORMATION,Éducation & formation,Éducation & formation,1
+"TELECOMMUNICATIONS, INFORMATIQUE",Informatique & télécoms,Informatique & télécoms,1
+"INFORMATIQUE, CONSTRUCTION, SERVICES.",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Services généraux,1
+"COMMERCE, PRESTATION DES SERVICES.",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+BATIMENTS ET TRAVAUX PUBLIQCS (BTP),Construction & BTP,Construction & BTP,1
+"TRANSACTIONS MONETAIRES, SERVICES.",Services généraux,Services généraux,1
+"HOTELLERIE,RESTAURATION ET CAFE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",1
+"EXPLOITATION MINIERE, TRANSPORT, SERVICES.",Mines & forage,Mines & forage;Transport & logistique;Services généraux,1
+TELECOMINICATIONS,Informatique & télécoms,Informatique & télécoms,1
+SERVICES ET MANUTENTION,Transport & logistique,Transport & logistique;Services généraux,1
+"GENIE CIVIL, CONSTRUCTION, TRANSPORT, LOGISTIQUE",Construction & BTP,Construction & BTP;Transport & logistique,1
+"GENIE CIVIL, CONSTRUCTION, SERVICES",Construction & BTP,Construction & BTP;Services généraux,1
+GESTIONS DES HYDROCARBURES ET SERVICES,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"INFORMATIQUE, LOGISTIQUE, SERVICES",Informatique & télécoms,Informatique & télécoms;Transport & logistique;Services généraux,1
+"SERVICES, FOURNITURE ET MAINTENANCE ENERGETIQUE","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Énergie & hydrocarbures;Services généraux;Commerce & fournitures",1
+EXPLOTATION MINIERE,Mines & forage,Mines & forage,1
+"GENIE CIVIL, CONSTRUCTION ET ETUDES DES OUVRAGES",Construction & BTP,Construction & BTP;Conseil & services professionnels,1
+TELECOMUNICATION,Informatique & télécoms,Informatique & télécoms,1
+"CONSTRUCTION, SERVIICES, COMMERCE GENERAL",Construction & BTP,Construction & BTP;Commerce & fournitures,1
+CONSTRUCTIOIN,Construction & BTP,Construction & BTP,1
+"SERVICES PERSONNELS ET DOMESTIQUES, LOGISTIQUE",Transport & logistique,Transport & logistique;Services généraux,1
+CONTRUCTION,Construction & BTP,Construction & BTP,1
+"CONSEIL, AUDIT ET SERVICES.",Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+"CONSEIL EN ENERGIE/NUMERIQUE, RESSOURCES HUMAINES ET SERVICES",Conseil & services professionnels,Conseil & services professionnels;Énergie & hydrocarbures;Informatique & télécoms;Ressources humaines;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, TRANSPORT ET LOGISTIQUE.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+INFORMATIQUES,Informatique & télécoms,Informatique & télécoms,1
+COMMERCES GENERAL ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+AVIATION ET COMMERCE GENERAL,Commerce & fournitures,Commerce & fournitures,1
+"SERVICES, COMMERCE",Services généraux,Services généraux;Commerce & fournitures,1
+EXPLOITATION FORESTIERE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,1
+"COMMERCE GENERAL,SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"COMMUNICATION, COMMERCE ET SERVICES",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,1
+BATIMENT ET TRAVAUX PIUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"SERVICES, GENIE CIVIL",Construction & BTP,Construction & BTP;Services généraux,1
+"COMMERCE GENERAL,TRANSPORT ET IMPORT-EXPORT",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+BATIMENTS ET TYRAVAUX PUBLICS (BTP),Construction & BTP,Construction & BTP,1
+"CONSTRUCTION, FOURNITURE DES BIENS ET SERVICES.",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"BATIMENTS ET TRAVAUX PUBLICS,GENIE CIVIL,AGRICULTURE ET ENVIRONNEMENT",Construction & BTP,Construction & BTP;Agriculture & agroalimentaire,1
+"FOURNITURE DES BIENS ET SERVICES,TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"SECURITE, SERVICES.",Sécurité & gardiennage,Sécurité & gardiennage;Services généraux,1
+"IMPRIMERIE, FOURNITURE DES BIENS ET SERVICES",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,1
+EXPLOITATION MIMNIERE,Mines & forage,Mines & forage,1
+AGROALIMANTAIRE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,1
+FOURNITURE DE BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"SERVICES, CONSTRUCTION & GENIE CIVIL",Construction & BTP,Construction & BTP;Services généraux,1
+TRANSPORT ET LOGISTIC,Transport & logistique,Transport & logistique,1
+SERVICES TECHNOLOGIQUES,Services généraux,Services généraux,1
+GESTION DES SOINS DE SANTE,Santé & pharmacie,Santé & pharmacie,1
+CONSTRUCTION ET FOURNITURE DES BIENS,Construction & BTP,Construction & BTP;Commerce & fournitures,1
+SERVICES ET EXPLOITATION MINIERE,Mines & forage,Mines & forage;Services généraux,1
+"BATIMENTS ET TAVAUX PUPLICS, FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"MINES, FOURNITURE DES BIENS ET SERVICES",Mines & forage,Mines & forage;Commerce & fournitures;Services généraux,1
+MAINTENANCE ET SERVICES,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",1
+"ENERGIES RENOUVELABLES, TECHNOLOGIES, SERVICES ET ENVIRONNEMENT",Énergie & hydrocarbures,Énergie & hydrocarbures;Informatique & télécoms;Services généraux,1
+"SANTE, MEDICALE",Santé & pharmacie,Santé & pharmacie,1
+"AUTELLERIE,RESTAURATION,CAFE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",1
+CONSTRUCTION ET FOURNITURES DES BIENS ET SERVICES,Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"AGRICULTURE, CONSTRUCTION,FOURNITURE DES BIENS ET SERVICES",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Construction & BTP;Commerce & fournitures;Services généraux,1
+"TRANPORT ET LOGISTIQUE, CONSTRUCTION,TECHNOLOGIE ET INFORMATIQUE",Transport & logistique,Transport & logistique;Construction & BTP;Informatique & télécoms,1
+"FOURNITURE DES PRODUITS, CONSTRUCTION, TRANSPORT ET SERVICES.",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux,1
+"TELECOM,ENERGIE SOLAIRE,ASSAINISSEMENT,BTP,AGRO-PASTORAL,IMPORT/EXPORT",Informatique & télécoms,Informatique & télécoms;Énergie & hydrocarbures;Eau & assainissement;Construction & BTP;Agriculture & agroalimentaire;Commerce & fournitures,1
+AERONAUTIQUE,Transport & logistique,Transport & logistique,1
+"COMMERCE GENERAL, TRANSPORT ET LOGISTIQUE",Transport & logistique,Transport & logistique;Commerce & fournitures,1
+"COMMERCE GENERAL,HOTELERIE,RESTAURATION,FOURNITURE ET LOGISTIQUE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Transport & logistique;Commerce & fournitures",1
+"FOURNITURE DES BIENS ET SERVICES, COMMERCE GENERAL",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGIQUE",Transport & logistique,Transport & logistique,1
+HYDROCARBURE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+"TANSPORT, LOGISTIQUE, FOURNITURE DES BIENS ET SERVICES.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, AGRO-ALIMENTAIRE",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Commerce & fournitures;Services généraux,1
+CONSTRUCTION ET SERVCIES,Construction & BTP,Construction & BTP,1
+"PRESTATION DES SERVICES, CONSTRUCTION",Construction & BTP,Construction & BTP;Services généraux,1
+TELECOMMUNICATION,Informatique & télécoms,Informatique & télécoms,1
+"COMMERCES,SERVICES,EXPLOITATION MINES,IMPORT,CONSTRUCTION",Mines & forage,Mines & forage;Construction & BTP;Commerce & fournitures;Services généraux,1
+SERVICES.,Services généraux,Services généraux,1
+"OPTIQUE, PHARMACIE, SERVICES",Santé & pharmacie,Santé & pharmacie;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, TRANPORT.",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES,CONTRUCTION,TRANSPORT ET LOGISTIQUE",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux,1
+BATIMENT ET TRAVAUX PUBLICS,Construction & BTP,Construction & BTP,1
+CONSTRUCTION D'AUTRES OUVRAGES DE GENIE CIVIL,Construction & BTP,Construction & BTP;Services généraux,1
+ENERGIEQUE,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+DRILLING ET FOURNITURES DE BIENS,Mines & forage,Mines & forage;Commerce & fournitures,1
+"IMMOBILIER, TRANSPORT, AGRICOLE ET SERVICES",Immobilier,Immobilier;Transport & logistique;Agriculture & agroalimentaire;Services généraux,1
+EXPLOITATION MINIER,Mines & forage,Mines & forage,1
+"ANALYSE,ECHANTILLONNAGE ET CERTIFICATION DES PRODUITS MINIERS.",Conseil & services professionnels,Conseil & services professionnels;Mines & forage;Commerce & fournitures,1
+"FOURNITURE DES BIENS ET SERVICES, TRANSPORT.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"COMMERCE, MULTI-SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+FOUNITURES DES BIENS,Commerce & fournitures,Commerce & fournitures,1
+"TRANSPORT, LOGISTICS",Transport & logistique,Transport & logistique,1
+CÖNSTRUCTION,Construction & BTP,Construction & BTP,1
+"SERVICES, AGROALIMENTAIRE,GENIE CIVIL",Agriculture & agroalimentaire,Agriculture & agroalimentaire;Construction & BTP;Services généraux,1
+"GESTION DES HYDROCARBURES, SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+"TRANSPORT, SERVICES.",Transport & logistique,Transport & logistique;Services généraux,1
+"SERVICES,GENIE CIVIL,CONSEIL",Construction & BTP,Construction & BTP;Conseil & services professionnels;Services généraux,1
+"HOTELERIE,RESTAURATION,CAFE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme",1
+ENERGETIQUES,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+SECURITE ET GARDIENNAGE,Sécurité & gardiennage,Sécurité & gardiennage,1
+"TRANSPORT, LOGISTIQUE,FOURNITURE DES BIENS ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, EXPLOITATION MINIERE",Construction & BTP,Construction & BTP;Mines & forage,1
+"TRANSPORT,LOGISTIQUE,GENIE CIVILE,ELECTRICITE,SECURITE ET IMMOBILIER",Transport & logistique,Transport & logistique;Construction & BTP;Énergie & hydrocarbures;Sécurité & gardiennage;Immobilier,1
+COMMERCE COMMERGEL,Commerce & fournitures,Commerce & fournitures,1
+COMMERCE GENERAL ET SERVICES GENERAUX,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"EXPLOITATIONS,TRANSFORMATIONS, ET SUBSTANCES MINERALESVENTE",Éducation & formation,Éducation & formation;Commerce & fournitures,1
+"INDUSTRIE PHARMACEUTIQUE, FOURNITURE DES BIENS ET SERVICES",Industrie & manufacture,Industrie & manufacture;Santé & pharmacie;Commerce & fournitures;Services généraux,1
+HYDRCARBURES,Énergie & hydrocarbures,Énergie & hydrocarbures,1
+"TRANSPORT ET LOGISTIQUES, FOURNITURE DES BIENS ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+FOURNITURE BIENS ET DES SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"COMMERCE,NETTOYAGE,DISTRIBUTION ET LOGISTIQUE","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Transport & logistique;Commerce & fournitures",1
+"DOUANE,LOGISTIQUE,COMMERCE,IMPORT-EXPORT,GARDIENNAGE",Transport & logistique,Transport & logistique;Sécurité & gardiennage;Commerce & fournitures,1
+"TRANSPORT,LOGISTIQUE ET FOURNITURE DES BIENS ET SERVICES",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGISTIQUE ET FOURNITURE DES BIENS ET SERVICES.",Transport & logistique,Transport & logistique;Commerce & fournitures;Services généraux,1
+"SERVICES, ENTRETIEN ET NETTOYAGE","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Services généraux",1
+"TRANSPORT,LOGISTIQUE,BTP,FOURNITURE DES BIENS ET SERVICES",Transport & logistique,Transport & logistique;Construction & BTP;Commerce & fournitures;Services généraux,1
+"ÉDUCATION, FORMATION",Éducation & formation,Éducation & formation,1
+"GENIE-CIVIL, TRANSPORT, SERVICES",Transport & logistique,Transport & logistique;Services généraux,1
+"COMMERCE GENARAL, FOURNITURE DES BIENS ET SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"SERVICES, COMMERCE GENERAL ET LOGISTIQUE",Transport & logistique,Transport & logistique;Services généraux;Commerce & fournitures,1
+SERVICES ET FOURNITURNITURE DES PRODUITS ALIMENTAIRES,Agriculture & agroalimentaire,Agriculture & agroalimentaire;Services généraux;Commerce & fournitures,1
+FOURNITURE DES MATERIELS ELECTROMECHANIQUES ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+BATIMENTS ET TRAVAUX PUBLIC (BTP),Construction & BTP,Construction & BTP,1
+PRESTATION DES SERVICES.,Services généraux,Services généraux,1
+BATIMENTS ET TRAVAUX PUPLICS(BTP),Construction & BTP,Construction & BTP,1
+"DISTRIBUTION, GESTION DES INSTALLATIONS DE TELECOMMUNICATIONS",Informatique & télécoms,Informatique & télécoms;Commerce & fournitures,1
+"CONSTRUCTION,IMMOBILIER ET FOURNITURE",Construction & BTP,Construction & BTP;Immobilier;Commerce & fournitures,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP), SERVICES.",Construction & BTP,Construction & BTP;Services généraux,1
+"ORGANISATION EVENEMENTIELLE,MONTAGE NUMERIQUE ET CONSEIL EN COMMUNICATION",Communication & médias,Communication & médias;Informatique & télécoms;Conseil & services professionnels,1
+"GENIE CIVIL, ENERGIE, NUMERIQUE",Construction & BTP,Construction & BTP;Énergie & hydrocarbures;Informatique & télécoms,1
+IMPORT-EXPORT,Commerce & fournitures,Commerce & fournitures,1
+SERVICES ET CONSTRUCTION,Construction & BTP,Construction & BTP;Services généraux,1
+"COMMERCE, FOURNITURE DES BIENS ET SERVICES.",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"SECURITE, CONSTRUCTION, SERVICES",Sécurité & gardiennage,Sécurité & gardiennage;Construction & BTP;Services généraux,1
+FOURNITURE DE BIENS ET PRESTATION DE SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"ASSAINISSEMENT, MANUTENTION ET NETTOYAGE",Eau & assainissement,"Eau & assainissement;Transport & logistique;Maintenance, entretien & réparation",1
+"GENIE CIVIL,CONSTRUCTION ET ARCHITECTURE",Construction & BTP,Construction & BTP,1
+"SANTÉ, MÉDECINE",Santé & pharmacie,Santé & pharmacie,1
+"COMMERCE GENERAL, IMMOBILIER, TRANSPORT, IMPORT-EXPORT",Immobilier,Immobilier;Transport & logistique;Commerce & fournitures,1
+"TANSPORT, LOGISTIC",Transport & logistique,Transport & logistique,1
+"TRANSPORT, LOGISTIQUE, CONSTRUCTION",Transport & logistique,Transport & logistique;Construction & BTP,1
+FOURNITURES BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+FORUNITURES DES BIENS ET SERVICES,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+TRANSPORT ET COMMERCIALISATION DES MATERIAUX HYDROELCTRIQUES,Transport & logistique,Transport & logistique;Commerce & fournitures,1
+EPLOITATION MINIERE,Mines & forage,Mines & forage,1
+COMMERCE DE GROS ET SERVICECS,Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"GESTION, MAINTENANCE ET REPARATION DES OUTILS ÉLECTRONIQUES","Maintenance, entretien & réparation","Maintenance, entretien & réparation;Informatique & télécoms",1
+SERVICES ET EXPORT-IMPORT,Services généraux,Services généraux;Commerce & fournitures,1
+FORAGES D'EAU POTABLE ET MAINTENANCE DES EQUIPEMENTS,Mines & forage,"Mines & forage;Eau & assainissement;Maintenance, entretien & réparation",1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP), TRANSPORT, LOGISTIQUE, SERVICES",Construction & BTP,Construction & BTP;Transport & logistique;Services généraux,1
+"GENIE CIVILE, GARDIENNAGE, PRODUCTION INDUSTRIELLE ET ARTISANALE",Construction & BTP,Construction & BTP;Sécurité & gardiennage;Industrie & manufacture,1
+SERVICES EET GENIE CIVIL,Construction & BTP,Construction & BTP;Services généraux,1
+"COMMERCE GENERAL, SERVICES",Commerce & fournitures,Commerce & fournitures;Services généraux,1
+"CONSTRUCTION, ELEVAGE ET AGROALIMENTAIRE",Construction & BTP,Construction & BTP;Agriculture & agroalimentaire,1
+"FOURNITURE DES BIENS ET SERVICES, HOTELERIE,RESTAURANT ET CAFE","Hôtellerie, restauration & tourisme","Hôtellerie, restauration & tourisme;Commerce & fournitures;Services généraux",1
+"ENERGIE, SERVICES",Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux,1
+INGENIERIE ET SERVICES TECHNIQUES INDUSTRIELS,Conseil & services professionnels,Conseil & services professionnels;Industrie & manufacture;Services généraux,1
+"SERVICES JURIDIQUES, FOURNITURE DES BIENS ET SERVICES.",Conseil & services professionnels,Conseil & services professionnels;Services généraux;Commerce & fournitures,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP),AGROALIMENTAIRE,SERVICES",Construction & BTP,Construction & BTP;Agriculture & agroalimentaire;Services généraux,1
+"CONSTRUCTION,FOURNITURE DES BIENS ET SERVICES,LOGISTIQUE ET TRNSPORT",Construction & BTP,Construction & BTP;Transport & logistique;Commerce & fournitures;Services généraux,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP), AGRICULTURE, SERVICES.",Construction & BTP,Construction & BTP;Agriculture & agroalimentaire;Services généraux,1
+SERVICES ET COMMERCE,Services généraux,Services généraux;Commerce & fournitures,1
+"SERVICES, COMMERCE GENERAL,COUPE ET COUTURE",Services généraux,Services généraux;Commerce & fournitures,1
+EXPLOITATION MINIÈRE,Mines & forage,Mines & forage,1
+"CONSTRUCTION, FOURNNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+GESTION ET RECYCLAGE DE DECHETS,Eau & assainissement,Eau & assainissement,1
+SANTE & MEDECINE,Santé & pharmacie,Santé & pharmacie,1
+LOGISTIQUE ET TRANSPORT,Transport & logistique,Transport & logistique,1
+"EXPLOITATION MINIERE, SERVICES",Mines & forage,Mines & forage;Services généraux,1
+"BATIMENTS ET TRAVAUX PUBLICS (BTP), FOURNITURE DES BIENS ET SERVICES",Construction & BTP,Construction & BTP;Commerce & fournitures;Services généraux,1
+"FOURNITURE DES BIENS ET SERVICES, ELECTRONIQUE, CONSTRUCTION",Informatique & télécoms,Informatique & télécoms;Construction & BTP;Commerce & fournitures;Services généraux,1
+"TRANSPORT, LOGISTIQUE, SERVICES.",Transport & logistique,Transport & logistique;Services généraux,1
+"TRANSPORT,LOGISTIQUE,SERVICES",Transport & logistique,Transport & logistique;Services généraux,1
+SERVICES ET FOURNITURES DES CARBURANTS,Énergie & hydrocarbures,Énergie & hydrocarbures;Services généraux;Commerce & fournitures,1
+"FOURNITURE, DISTRIBUTION DES CARBURANTS ET LUBRIFIANTS",Énergie & hydrocarbures,Énergie & hydrocarbures;Commerce & fournitures,1
+"CONSTRUCTION,SERVICES ET COMMERCE GERAL",Construction & BTP,Construction & BTP;Services généraux;Commerce & fournitures,1
+"CONSTRUCTION, TRANSPORT, SERVICES.",Construction & BTP,Construction & BTP;Transport & logistique;Services généraux,1
+"ITERMEDIATION COMMERCIALE, PARTAGE D'AFFAIRES ET SERVICES.",Communication & médias,Communication & médias;Commerce & fournitures;Services généraux,1
+MAINTENANCE ET REPARATION INDUSTRIELLE,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture",1
+BATIMENT ET TRAVAUX PUPLICS (BTP),Construction & BTP,Construction & BTP,1
+"TRANSPORT, LOGISTIQUUE",Transport & logistique,Transport & logistique,1
+SRVICES,Services généraux,Services généraux,1
+MAINTENANCE ELECTRO MECANIQUES,"Maintenance, entretien & réparation","Maintenance, entretien & réparation;Industrie & manufacture",1
+"GENIE CIVIL, CONSTRUCTION, SERVICES.",Construction & BTP,Construction & BTP;Services généraux,1
+IINFORMATIQUE,Informatique & télécoms,Informatique & télécoms,1
+SERVICES JURIDIQUES,Conseil & services professionnels,Conseil & services professionnels;Services généraux,1
+ELEVAGE ET AGRICULTURE,Agriculture & agroalimentaire,Agriculture & agroalimentaire,1
+"LOGISTIQUE,IMPORT-EXPORT,HYDROCARBURES,COMMERCE GENERAL",Transport & logistique,Transport & logistique;Énergie & hydrocarbures;Commerce & fournitures,1
